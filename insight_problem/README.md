@@ -1,6 +1,6 @@
 README.md contains Problem, Approach and Run instructions sections
 
-# This file evaluate
+# This file evaluates and sorts the H1B applications for diffeent years
 
 
 ## Problem 
